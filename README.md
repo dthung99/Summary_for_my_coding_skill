@@ -26,4 +26,4 @@ This repository serves as a summary of my coding projects and implementations. I
 
 ## Disclosure
 
-100% of the codes are my implementation (or maybe 99%) with references to different onlin sources. The biggest credit should belong to my tutor: [ChatGPT](https://openai.com/index/chatgpt/), who has always been by my side during all the highs and lows.
+100% of the codes are my implementation (or maybe 99%) with help from different online sources. The biggest credit should belong to my tutor: [ChatGPT](https://openai.com/index/chatgpt/), who has always been by my side during all the highs and lows.
