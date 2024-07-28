@@ -6,13 +6,13 @@ This repository serves as a summary of my coding projects and implementations. I
 
 - [Slicer extension for path planning for brain biospy](https://github.com/dthung99/Image_guided_Navigation_for_Robotics_MSc_course/blob/main/Needle_Path_planning/Needle_Path_Planning/Needle_Path_Planning.py)
 
-- [beta-VAE-WGAN for brain MRI images](https://github.com/dthung99/VAE_GAN_for_brain_MRI_images/blob/main/vae-gan-neonatal-mri.ipynb)
+- [Beta-VAE-WGAN for brain MRI images](https://github.com/dthung99/VAE_GAN_for_brain_MRI_images/blob/main/vae-gan-neonatal-mri.ipynb)
 
 - [U-Net for liver tumor segmentation](https://github.com/dthung99/U_Net_for_liver_tumor_segmentation/blob/main/u-net-liver-segmentation.ipynb)
 
 - [Random AI learning projects](https://github.com/dthung99/AI_small_project)
 
-- [Haptic device](https://github.com/dthung99/Advanced_Medical_Robotics_MSc_course): The links to important codes are given in the README.md
+- [Haptic device (The links to important codes are given in the README.md)](https://github.com/dthung99/Advanced_Medical_Robotics_MSc_course)
 
 ## C++
 
@@ -22,7 +22,7 @@ This repository serves as a summary of my coding projects and implementations. I
 
 ## MATLAB
 
-- [Communication with the microcontroller and solving the kinematics](https://github.com/dthung99/Applied_Medical_Robotics_MSc_course/tree/main/MATLAB): It is among my first coding projects, so the codes are really bad.
+- [Communication with the microcontroller and solving the kinematics (It is among my first coding projects, so the codes are really bad)](https://github.com/dthung99/Applied_Medical_Robotics_MSc_course/tree/main/MATLAB)
 
 ## Disclosure
 
