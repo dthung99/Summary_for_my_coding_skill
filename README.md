@@ -1,29 +1,21 @@
-# Summary for my coding skill
+# Links to all GitHub projects
 
-This repository serves as a summary of my coding projects and implementations. It's designed to provide potential employers with an easy-to-navigate overview of my technical skills and experience.
+This repository serves as a storage for links to GitHub projects that I included in my CV for my PhD application. Some applications do not allow embedding links in the CV/resume.
 
-## Python
+## All projects
 
-- [Slicer extension for path planning for brain biospy](https://github.com/dthung99/Image_guided_Navigation_for_Robotics_MSc_course/blob/main/Needle_Path_planning/Needle_Path_Planning/Needle_Path_Planning.py)
+- [Two degree-of-freedom drawing robot](https://github.com/dthung99/Applied_Medical_Robotics_MSc_course)
 
-- [Beta-VAE-WGAN for brain MRI images](https://github.com/dthung99/VAE_GAN_for_brain_MRI_images/blob/main/vae-gan-neonatal-mri.ipynb)
+- [Controlling a three degree-of-freedom robot](https://github.com/dthung99/Advanced_Medical_Robotics_MSc_course)
 
-- [U-Net for liver tumor segmentation](https://github.com/dthung99/U_Net_for_liver_tumor_segmentation/blob/main/u-net-liver-segmentation.ipynb)
+- [Path planning software for brain electrode insertion](https://github.com/dthung99/Image_guided_Navigation_for_Robotics_MSc_course)
 
-- [Random AI learning projects](https://github.com/dthung99/AI_small_project)
+- [U-Net for segmentation of 3D images of liver cancers](https://github.com/dthung99/U_Net_for_liver_tumor_segmentation)
 
-- [Haptic device (The links to important codes are given in the README.md)](https://github.com/dthung99/Advanced_Medical_Robotics_MSc_course)
+- [Age prediction from neonatal brain MRI images](https://github.com/dthung99/VAE_GAN_for_brain_MRI_images)
 
-## C++
+- [Deep learning architecture from scratch](https://github.com/dthung99/AI_small_project)
 
-- [Simulation of brain biospy in ROS](https://github.com/dthung99/Image_guided_Navigation_for_Robotics_MSc_course/blob/main/ROS_needle_insert_simulation_ws/src/needle_path_simulation/src/move_robot.cpp)
+- [Simple pygame utilizing OpenAI API](https://github.com/dthung99/Move_The_Circle_LLM_Game)
 
-- [PID microcontroller](https://github.com/dthung99/Applied_Medical_Robotics_MSc_course/blob/main/Arduino/microcontroller/microcontroller.ino)
-
-## MATLAB
-
-- [Communication with the microcontroller and solving the kinematics (It is among my first coding projects, so the codes are really bad)](https://github.com/dthung99/Applied_Medical_Robotics_MSc_course/tree/main/MATLAB)
-
-## Disclosure
-
-100% of the codes are my implementation (or maybe 99%) with help from different online sources. The biggest credit should belong to my tutor: [ChatGPT](https://openai.com/index/chatgpt/), who has always been by my side during all the highs and lows.
+- [Seal Idea – A website for making encrypted posts](https://github.com/dthung99/Seal_Idea)
